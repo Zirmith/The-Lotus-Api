@@ -1,0 +1,28 @@
+{
+  "name": "the-lotus-api",
+  "version": "1.0.0",
+  "description": "Express Server Api",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zirmith/The-Lotus-Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zirmith/The-Lotus-Api/issues"
+  },
+  "homepage": "https://github.com/Zirmith/The-Lotus-Api#readme",
+  "dependencies": {
+    "electron": "^23.1.1",
+    "nodemon": "^2.0.20"
+  }
+}
